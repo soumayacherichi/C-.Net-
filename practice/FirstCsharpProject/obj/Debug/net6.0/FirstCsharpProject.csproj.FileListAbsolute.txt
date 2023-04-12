@@ -1,0 +1,15 @@
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\bin\Debug\net6.0\FirstCsharpProject.exe
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\bin\Debug\net6.0\FirstCsharpProject.deps.json
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\bin\Debug\net6.0\FirstCsharpProject.runtimeconfig.json
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\bin\Debug\net6.0\FirstCsharpProject.dll
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\bin\Debug\net6.0\FirstCsharpProject.pdb
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.csproj.AssemblyReference.cache
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.AssemblyInfoInputs.cache
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.AssemblyInfo.cs
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.dll
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\refint\FirstCsharpProject.dll
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.pdb
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\FirstCsharpProject.genruntimeconfig.cache
+C:\Users\souma\Desktop\c#.net\firtsessai\FirstCsharpProject\obj\Debug\net6.0\ref\FirstCsharpProject.dll
