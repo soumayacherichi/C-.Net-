@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio\\Portfolio.csproj": {
+    "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio\\Portfolio.csproj",
+        "projectPath": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\souma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio\\obj\\",
+        "outputPath": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\souma\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,19 @@
+@model List<User>
+<h1>Here are some users!!!</h1>
+
+<hr>
+<table class="table table-striped">
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+    </tr>
+    @{
+        foreach(User u in Model)
+        {
+            <tr>
+                <td><a href="/user">@u.FirstName</a></td>
+                <td><a href="/user">@u.LastName</a></td>
+            </tr>
+        }
+    }
+</table>

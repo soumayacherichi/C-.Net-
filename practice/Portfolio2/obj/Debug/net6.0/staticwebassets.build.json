@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "oLK2thz/NWkBVFEfzrXTBAsnL7yYYgD776eG91wzLU8=",
+  "Source": "Portfolio",
+  "BasePath": "_content/Portfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio\\wwwroot",
+      "Source": "Portfolio",
+      "ContentRoot": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\wwwroot\\images\\image.jpg",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\wwwroot\\images\\images.jfif",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\practice\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/images.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jfif"
+    }
+  ]
+}

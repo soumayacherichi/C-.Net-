@@ -8,21 +8,21 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Portfolio
 build_property.RootNamespace = Portfolio
-build_property.ProjectDir = c:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\practice\Portfolio2\
+build_property.ProjectDir = C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\practice\Portfolio2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\practice\Portfolio2
+build_property.MSBuildProjectDirectory = C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\practice\Portfolio2
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/souma/Desktop/c\#.net/c sharp mon travail/C-.Net-/practice/Portfolio2/Views/contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdC5jc2h0bWw=
+[C:/Users/souma/Desktop/c\#.net/c sharp mon travail/C-.Net-/practice/Portfolio2/Views/portfolio/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9ydGZvbGlvXGNvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/souma/Desktop/c\#.net/c sharp mon travail/C-.Net-/practice/Portfolio2/Views/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW5kZXguY3NodG1s
+[C:/Users/souma/Desktop/c\#.net/c sharp mon travail/C-.Net-/practice/Portfolio2/Views/portfolio/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9ydGZvbGlvXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/souma/Desktop/c\#.net/c sharp mon travail/C-.Net-/practice/Portfolio2/Views/project.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvamVjdC5jc2h0bWw=
+[C:/Users/souma/Desktop/c\#.net/c sharp mon travail/C-.Net-/practice/Portfolio2/Views/portfolio/project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9ydGZvbGlvXHByb2plY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

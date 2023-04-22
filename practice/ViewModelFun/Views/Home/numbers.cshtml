@@ -1,0 +1,19 @@
+@model List<User>
+<h1>Here artre some numbers!!!</h1>
+<h1>
+    Yes , You Made it 🏆🥇
+</h1>
+<hr>
+<table class="table table-striped">
+    <tr>
+        <th>Number</th>
+    </tr>
+    @{
+        foreach(User u in Model)
+        {
+            <tr>
+                <td>@u.Number</td>
+            </tr>
+        }
+    }
+</table>
