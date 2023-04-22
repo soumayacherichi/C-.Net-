@@ -1,0 +1,19 @@
+@model Ninja
+<h1>
+   Welcome to the Ninja
+</h1>
+<hr>
+<table class="table table-striped">
+    <tr>
+        <th>UserName</th>
+        <th>Location</th>
+        <th>Language</th>
+        <th>Comment</th>
+    </tr>
+            <tr>
+                <td>@ViewBag.UserName</td>
+                <td>@ViewBag.Location</td>
+                <td>@ViewBag.Language</td>
+                <td>@ViewBag.Comment</td>
+            </tr>
+</table>
