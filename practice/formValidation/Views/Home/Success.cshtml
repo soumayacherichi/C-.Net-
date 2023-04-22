@@ -1,0 +1,24 @@
+@model List<Pet>
+    <h1>
+        Yes, You Made it 💰
+    </h1>
+    <hr>
+    <table class="table table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Is Friendly</th>
+            <th>Color</th>
+        </tr>
+        @{
+            foreach (Pet p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Age</td>
+                    <td>@p.IsFriendly</td>
+                    <td>@p.Color</td>
+                </tr>
+            }
+        }
+    </table>
