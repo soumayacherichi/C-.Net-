@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="contactez-nous">
+<h1>Submitted Info</h1>
+<form action="process" method="post">
+<div>
+<label for="nom">Your Name</label>
+<input type="text" id="nom" name="username" placeholder="Martin" required>
+</div>
+<div>
+<label for="email">Dojo Location</label>
+<input type="text" name="location"required>
+</div>
+<div>
+<label for="sujet">Favorite Language</label>
+<select name="language" id="sujet" required>
+<option value="" disabled selected hidden>Choisissez le langage</option>
+<option value="probleme-compte">JavaScript</option>
+<option value="question-produit">Java</option>
+<option value="suivi-commande">C#</option>
+<option value="autre">Autre...</option>
+</select>
+</div>
+<div>
+<label for="message">Comment</label>
+<textarea id="message" name="comment" placeholder="Bonjour, je vous contacte car...." required></textarea>
+</div>
+<div>
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
+</body>
+</html>

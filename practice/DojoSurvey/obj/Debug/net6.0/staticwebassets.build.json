@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0NA1qtZyP30v4q63jxiFs2GVmkmj3PFnv5+drdWU6UU=",
+  "Source": "DojoSurvey",
+  "BasePath": "_content/DojoSurvey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DojoSurvey\\wwwroot",
+      "Source": "DojoSurvey",
+      "ContentRoot": "C:\\Users\\souma\\Desktop\\c#.net\\c sharp mon travail\\C-.Net-\\core\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
