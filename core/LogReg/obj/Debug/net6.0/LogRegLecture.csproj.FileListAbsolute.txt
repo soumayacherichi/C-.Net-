@@ -1,0 +1,105 @@
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\appsettings.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.staticwebassets.runtime.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.exe
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.deps.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.runtimeconfig.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.pdb
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.AssemblyReference.cache
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.AssemblyInfoInputs.cache
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.AssemblyInfo.cs
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.CoreCompileInputs.cache
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.RazorAssemblyInfo.cache
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.RazorAssemblyInfo.cs
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\scopedcss\bundle\LogRegLecture.styles.css
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\scopedcss\projectbundle\LogRegLecture.bundle.scp.css
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.CopyComplete
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\refint\LogRegLecture.dll
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.pdb
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.genruntimeconfig.cache
+C:\Users\Dali\Desktop\gitRepos\Gamma\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\ref\LogRegLecture.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\appsettings.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.staticwebassets.runtime.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.exe
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.deps.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.runtimeconfig.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\LogRegLecture.pdb
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.AssemblyReference.cache
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.AssemblyInfoInputs.cache
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.AssemblyInfo.cs
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.CoreCompileInputs.cache
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.RazorAssemblyInfo.cache
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.RazorAssemblyInfo.cs
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\scopedcss\bundle\LogRegLecture.styles.css
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\scopedcss\projectbundle\LogRegLecture.bundle.scp.css
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.CopyComplete
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\refint\LogRegLecture.dll
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.pdb
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\LogRegLecture.genruntimeconfig.cache
+C:\Users\souma\Desktop\csharp classe\csharp_ft_april_2023\W3D1\LogRegLecture\obj\Debug\net6.0\ref\LogRegLecture.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\appsettings.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\LogRegLecture.staticwebassets.runtime.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\LogRegLecture.exe
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\LogRegLecture.deps.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\LogRegLecture.runtimeconfig.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\LogRegLecture.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\LogRegLecture.pdb
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.AssemblyReference.cache
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.AssemblyInfoInputs.cache
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.AssemblyInfo.cs
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.CoreCompileInputs.cache
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.RazorAssemblyInfo.cache
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.RazorAssemblyInfo.cs
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\scopedcss\bundle\LogRegLecture.styles.css
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\scopedcss\projectbundle\LogRegLecture.bundle.scp.css
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.csproj.CopyComplete
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\refint\LogRegLecture.dll
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.pdb
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\LogRegLecture.genruntimeconfig.cache
+C:\Users\souma\Desktop\c#.net\c sharp mon travail\C-.Net-\core\LogRegLecture\obj\Debug\net6.0\ref\LogRegLecture.dll
