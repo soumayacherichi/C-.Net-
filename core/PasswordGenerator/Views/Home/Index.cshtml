@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Random Passcode #@(ViewBag.PasscodeNumber)</h1>
+
+<p>Passcode: @(ViewBag.Passcode)</p>
+
+<p>Total Passcodes Generated: @(GetPasscodeCount())</p>
