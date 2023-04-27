@@ -1,0 +1,24 @@
+@model Product
+<form asp-action="UpdateProduct" asp-controller="Home" method="post"  asp-route-ProductId=@Model.ProductId>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name"></span>
+        <input asp-for="Name">
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <span asp-validation-for="Price"></span>
+        <input asp-for="Price">
+    </div>
+    <div class="form-group">
+        <label asp-for="Quantity"></label>
+        <span asp-validation-for="Quantity"></span>
+        <input asp-for="Quantity">
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <span asp-validation-for="Description"></span>
+        <input asp-for="Description">
+    </div>
+    <input type="submit" value="Add">
+</form>

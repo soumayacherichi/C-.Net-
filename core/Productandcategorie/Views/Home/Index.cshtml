@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+<div class="d-flex g-5">
+
+<div class="container-sm col-5">
+
+<h1 class="mb-5">Registration</h1>
+<form asp-action="Register" class="form-control text-center">
+    <div class="mb-3">
+    <span asp-validation-for="FirstName"></span><br>
+    <label class="col-4" asp-for="FirstName" ></label>
+    <input asp-for="FirstName">
+    </div>
+    <div class="mb-3">
+    <span asp-validation-for="LastName"></span><br>
+    <label class="col-4" asp-for="LastName"></label>
+    <input asp-for="LastName">
+    </div>
+    <div class="mb-3">
+    <span asp-validation-for="Email"></span> <br>
+    <label class="col-4" asp-for="Email"></label>
+    <input asp-for="Email">
+    </div>
+    <div class="mb-3">
+    <span asp-validation-for="Password"></span><br>
+    <label class="col-4" asp-for="Password"></label>
+    <input asp-for="Password">
+    </div>
+    <div class="mb-3">
+    <span asp-validation-for="ConfirmPassword"></span><br>
+    <label class="col-4" asp-for="ConfirmPassword"></label>
+    <input asp-for="ConfirmPassword">
+    </div> <br>
+    <input type="submit" value="Submit" class="btn btn-secondary">
+
+</form>
+</div>
+<div class="container w-50">
+    <partial name="_Login"/>
+</div>
+</div>

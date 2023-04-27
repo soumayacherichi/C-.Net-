@@ -1,0 +1,70 @@
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\appsettings.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\ManyToMany.staticwebassets.runtime.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\ManyToMany.exe
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\ManyToMany.deps.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\ManyToMany.runtimeconfig.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\ManyToMany.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\ManyToMany.pdb
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Humanizer.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.csproj.AssemblyReference.cache
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.AssemblyInfoInputs.cache
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.AssemblyInfo.cs
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.csproj.CoreCompileInputs.cache
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.RazorAssemblyInfo.cache
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.RazorAssemblyInfo.cs
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\scopedcss\bundle\ManyToMany.styles.css
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\scopedcss\projectbundle\ManyToMany.bundle.scp.css
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.csproj.CopyComplete
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\refint\ManyToMany.dll
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.pdb
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ManyToMany.genruntimeconfig.cache
+C:\Users\souma\Desktop\c#.net\csharp classe\ManyToMany\obj\Debug\net6.0\ref\ManyToMany.dll
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.csproj.AssemblyReference.cache
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.AssemblyInfoInputs.cache
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.AssemblyInfo.cs
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.csproj.CoreCompileInputs.cache
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.RazorAssemblyInfo.cache
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.RazorAssemblyInfo.cs
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.dll
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\refint\ManyToMany.dll
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.pdb
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\appsettings.json
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\ManyToMany.staticwebassets.runtime.json
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\ManyToMany.exe
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\ManyToMany.deps.json
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\ManyToMany.runtimeconfig.json
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\ManyToMany.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\ManyToMany.pdb
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Humanizer.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\souma\Desktop\ManyToMany\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\scopedcss\bundle\ManyToMany.styles.css
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\scopedcss\projectbundle\ManyToMany.bundle.scp.css
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.csproj.CopyComplete
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ManyToMany.genruntimeconfig.cache
+C:\Users\souma\Desktop\ManyToMany\obj\Debug\net6.0\ref\ManyToMany.dll
