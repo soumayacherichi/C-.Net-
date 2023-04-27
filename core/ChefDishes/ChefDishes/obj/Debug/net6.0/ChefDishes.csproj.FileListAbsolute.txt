@@ -1,0 +1,105 @@
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\appsettings.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\ChefDishes.staticwebassets.runtime.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\ChefDishes.exe
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\ChefDishes.deps.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\ChefDishes.runtimeconfig.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\ChefDishes.pdb
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.AssemblyReference.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.AssemblyInfoInputs.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.AssemblyInfo.cs
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.CoreCompileInputs.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.RazorAssemblyInfo.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.RazorAssemblyInfo.cs
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\scopedcss\bundle\ChefDishes.styles.css
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\scopedcss\projectbundle\ChefDishes.bundle.scp.css
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.CopyComplete
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\refint\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.pdb
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ChefDishes.genruntimeconfig.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Dqy4\ChefDishes\obj\Debug\net6.0\ref\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\appsettings.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\ChefDishes.staticwebassets.runtime.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\ChefDishes.exe
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\ChefDishes.deps.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\ChefDishes.runtimeconfig.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\ChefDishes.pdb
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.AssemblyReference.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.AssemblyInfoInputs.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.AssemblyInfo.cs
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.CoreCompileInputs.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.RazorAssemblyInfo.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.RazorAssemblyInfo.cs
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\scopedcss\bundle\ChefDishes.styles.css
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\scopedcss\projectbundle\ChefDishes.bundle.scp.css
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.CopyComplete
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\refint\ChefDishes.dll
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.pdb
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ChefDishes.genruntimeconfig.cache
+C:\Users\monta\Desktop\coding Dojo\Monta-in-the-dojo\C# .NET\Core Ass\Week2\Day4\ChefDishes\obj\Debug\net6.0\ref\ChefDishes.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\appsettings.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\ChefDishes.staticwebassets.runtime.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\ChefDishes.exe
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\ChefDishes.deps.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\ChefDishes.runtimeconfig.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\ChefDishes.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\ChefDishes.pdb
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.AssemblyReference.cache
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.AssemblyInfoInputs.cache
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.AssemblyInfo.cs
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.CoreCompileInputs.cache
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.RazorAssemblyInfo.cache
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.RazorAssemblyInfo.cs
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\scopedcss\bundle\ChefDishes.styles.css
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\scopedcss\projectbundle\ChefDishes.bundle.scp.css
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.csproj.CopyComplete
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\refint\ChefDishes.dll
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.pdb
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ChefDishes.genruntimeconfig.cache
+C:\Users\souma\Downloads\ChefDishes\ChefDishes\obj\Debug\net6.0\ref\ChefDishes.dll

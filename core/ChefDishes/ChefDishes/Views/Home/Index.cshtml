@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Check out our roster of chefs!</h1>
+    <hr>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th># of Dishes</th>
+            </td>
+        </thead>
+        <tbody>
+            @foreach (Chef c in ViewBag.Allchefs)
+            {
+                <tr>
+                    <td>@c.FirstName @c.LastName</td>
+                    <td>@c.GetAge()</td>
+                    <td>@c.ChefDishes.Count</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,53 @@
+@model Dish
+
+@{
+    ViewData["Title"] = "Add Dish";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Add a dish</h1>
+    <hr>
+    <div>
+        <form action="/dish/add" method="post">
+           <div class="row">
+            <div class="col-4">
+                <div>
+                  <label asp-for="Name" class="form-label">Name:</label>
+                  <input asp-for="Name" class="form-control">
+                  <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div>
+                  <label asp-for="Caliories" class="form-label">Caliories:</label>
+                  <input asp-for="Caliories" class="form-control">
+                  <span asp-validation-for="Caliories" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-4">
+                  <div>
+                    <label asp-for="Caliories" class="form-label">Chef's Name:</label>
+                    <select name="ChefID" class="form-select">
+                        @foreach (Chef c in ViewBag.Allchefs)
+                        {
+                            <option value="@c.ChefID">@c.FirstName @c.LastName</option>
+                        }
+                    </select>
+                    <span asp-validation-for="Caliories" class="text-danger"></span>
+                  </div>
+            </div>
+            <div class="col-4">
+                <div>
+                    <label asp-for="Tastiness" class="form-label">Tastiness</label>
+                    <select name="Tastiness" class="form-select">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <input type="submit" value="Add Dish">
+            </div>
+           </div>
+        </form>
+    </div>
+</div>
