@@ -1,0 +1,23 @@
+@model WeddingPlanner.Models.LoginViewModel;
+<div class="col-md-5 mx-auto">
+			<div id="first">
+				<div class="myform form ">
+					 <div class="logo mb-3">
+						 <div class="col-md-12 text-center">
+        <h1>Login</h1>
+    <form asp-controller="Users" asp-action="Login" method="POST">
+
+        <label asp-for="Email"></label>
+        <input asp-for="Email"class="form-control">
+        <span asp-validation-for="Email"></span>
+        <span asp-validation-for="EmailInDB"></span>
+
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control">
+        <span asp-validation-for="Password"></span>
+        <span asp-validation-for="PasswordConfirmation"></span><br>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form><br>
+    <a href="/">Need to Register?</a>
+                         </div> </div> </div> </div> </div>

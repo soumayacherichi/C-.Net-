@@ -1,0 +1,21 @@
+@model WeddingPlanner.Models.Wedding;
+
+<div class="detailsContainer">
+    <a href="/Dashboard">Dashboard</a>
+    <a href="">Logout</a>
+<center>
+    <h1>🤵 @Model.WedderOne and 👰@Model.WedderTwo's Wedding💘💘💘</h1>
+    <h2>Date: @Model.WeddingDate.ToString("MMMM d, yyy")</h2>
+   </center> 
+    <h3>Guests:</h3>
+<table class="table table-striped">
+        <th style="color: rgb(90, 19, 69)">Name</th>
+        <th style="color: rgb(90, 19, 69)">Date of acceptation</th>
+    @foreach(var guest in @Model.Guests)
+    {   <tr>
+        <td>@guest.User.FirstName @guest.User.LastName</td>
+        <td>@guest.User.CreatedAt</td>
+    </tr>
+    }
+</table>
+</div>

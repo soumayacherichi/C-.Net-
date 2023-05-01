@@ -1,0 +1,86 @@
+{
+  "SerializedFilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\obj\\Debug\\netcoreapp2.0\\project.razor.json",
+  "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\WeddingPlanner.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "WeddingPlanner",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Weddings\\Details.cshtml",
+      "TargetPath": "Views\\Weddings\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Users\\Login.cshtml",
+      "TargetPath": "Views\\Users\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Home\\Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Users\\Registration.cshtml",
+      "TargetPath": "Views\\Users\\Registration.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Weddings\\AddWedding.cshtml",
+      "TargetPath": "Views\\Weddings\\AddWedding.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Weddings\\Dashboard.cshtml",
+      "TargetPath": "Views\\Weddings\\Dashboard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\souma\\Desktop\\CSharpExam\\WeddingPlanner\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
